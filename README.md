@@ -20,4 +20,6 @@ A 3D game using OpenGL, written in C++, using GLFW, GLM, GLEW.
   *using functional programming, not very good for scalability*
 
 
-collaboration with Mataragkas Dimitrios
+##### Collaborators
+
+*	[@dimetallica](https://github.com/dimetallica)
