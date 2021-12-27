@@ -18,6 +18,7 @@ A 3D game using OpenGL, written in C++, using GLFW, GLM, GLEW.
 - [ ] clean code
 
 *this is my first project with C++ so there are many errors with the coding standarts*
+
 *using functional programming, not very good for scalability*
 
 
